@@ -3,4 +3,4 @@
 myenv/
 venv/
 env/
-.gradio\flagged
+.gradio
